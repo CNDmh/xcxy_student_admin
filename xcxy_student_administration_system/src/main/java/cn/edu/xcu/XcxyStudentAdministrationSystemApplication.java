@@ -9,5 +9,5 @@ public class XcxyStudentAdministrationSystemApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(XcxyStudentAdministrationSystemApplication.class, args);
 	}
-
+/////
 }
